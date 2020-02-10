@@ -26,7 +26,7 @@ __*Growth Mindset Totally Not Plagiarized and One-hundred Percent In My Own Word
 <p>Like all difficult things, you should establish it as a habit. Mental thinking is powerful, but difficult.<br> What will I do to utilize growth mindset?<br>
 <ol><li> Refrain from Jealousy as I watch my peers soar above me </li><br>
   <li> Inflict plenty of pain in order to achieve maximum gains </li><br>
-  <li> Taking the proper criticism and being able to use it as a means to grow </li></p>
+  <li> Taking the proper criticism and being able to use it as a means to grow </li></p></ol>
 
 
 
