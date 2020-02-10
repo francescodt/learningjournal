@@ -14,6 +14,14 @@ Tables of Contents
 
 
 
+
+
+*Growth Mindset Totally Not Plagiarized and One-hundred Percent In My Own Words*
+
+Growth mindset totally not plagiarized and one-hundred percent in my own words is the foundation of work, school and life stability. Being able to focus on
+
+
+
 You can use the [editor on GitHub](https://github.com/francescodt/learningjournal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
