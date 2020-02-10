@@ -2,9 +2,8 @@
 
 **Bio**
 
-`hey`
 
-![image](/me.jpg)
+![dat me](/me.jpg)
 
 
 My name is Francesco Troiano. I am a "professional" tcg/ccg player, cancer "survivor," board game "enthusiast," quotation-mark "indulger," hair donator, and avid concert go-er. I am goofy, goal-oriented and active in the community through volunteering and other like minded activities. I've traveled across the country and have done some international travel with plans to do more.
