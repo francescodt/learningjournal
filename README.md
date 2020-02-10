@@ -9,16 +9,18 @@ My name is Francesco Troiano. I am a "professional" tcg/ccg player, cancer "surv
 [My Git Hub Page](https://francescodt.github.io/learningjournal/)
 
 
-Tables of Contents
+__*Tables of Contents*__
   -  [Learning Journal 2/10/2020](lab1b.md)
 
 
 
 
 
-*Growth Mindset Totally Not Plagiarized and One-hundred Percent In My Own Words*
+__*Growth Mindset Totally Not Plagiarized and One-hundred Percent In My Own Words*__ 
 
-Growth mindset totally not plagiarized and one-hundred percent in my own words is the foundation of work, school and life stability. Being able to focus on
+Growth mindset totally not plagiarized and one-hundred percent in my own words is the foundation of work, school and life stability. Being able to focus on important tasks at hand, and not letting you get in the way of *you*. Developing yourself not only as a co-worker, peer or even cohort, but as someone who is able to grow themselves along with the people around them. By living with a growth mindset rather than a fixed mindset lets you overcome the obstacles, and tasks while also building a foundation for the rest of yourself and peers, affecting each and everyone around you.
+
+Like all difficult things, you should establish it as a habit. Mental thinking is powerful, but difficult. Allowing this to become part of your daily life would let you focus on the tasks that you're doing, rather than just being in the growth mindset.
 
 
 
