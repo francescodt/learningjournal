@@ -15,8 +15,7 @@ My name is Francesco Troiano. I am a "professional" tcg/ccg player, cancer "surv
 __*Tables of Contents*__
   -  [Learning Journal 2/10/2020](lab1b.md)
 
-
-
+& whatdoesitdo
 
 
 __*Growth Mindset Totally Not Plagiarized and One-hundred Percent In My Own Words*__ 
