@@ -6,7 +6,7 @@
 
 
 Tables of Contents
-  -  something is supposed to be here
+  -  [Learning Journal 1b](lab1b.md)
 
 
 
