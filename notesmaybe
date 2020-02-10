@@ -4,17 +4,17 @@ Add the link to the website portion on edit (upper middle right)
 ???
 Github should basically be set-up
 
-<br><ol>
-Command Prompt
+
+# Command Prompt
 cd 
-<li>Change directory</li>
+  Change directory
 pwd
-<li>Path something directory. Basically files for mac cause they suck. Checks if you're in the correct folder.</li>
+  Path something directory. Basically files for mac cause they suck. Checks if you're in the correct folder.
 cd desktop
 ls
-<li> Looks inside the folder if you're pwd'd somewhere</li>
+  Looks inside the folder if you're pwd'd somewhere
 code(space).
-<li> Brings up project inside cp</li>
-<li> Make sure to check you're on the "master" version</li>
+  Brings up project inside cp</li>
+  Make sure to check you're on the "master" version
 
-</ol>
+
