@@ -2,7 +2,7 @@
 
 
 
-[My Git Hub Page] (httsp://francescodt.github.io/learningjournal/)
+[My Git Hub Page] (https://francescodt.github.io/learningjournal/)
 
 
 Tables of Contents
