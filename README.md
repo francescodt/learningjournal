@@ -1,10 +1,12 @@
 ## Welcome to GitHub Pages
 
 **Bio**
+
+
 ![image](/me.jpg)
 
 
-My name is Francesco Troiano. I am a "professional" tcg/ccg player, cancer "survivor," board game "enthusiast," quotation-mark "indulger," hair donator, and avid concert go-er. I am goofy, goal-oriented and active in the community through volunteering and other like minded activities. I've traveled across the country and have done some international travel with plans to do more. 
+<p>My name is Francesco Troiano. I am a "professional" tcg/ccg player, cancer "survivor," board game "enthusiast," quotation-mark "indulger," hair donator, and avid concert go-er. I am goofy, goal-oriented and active in the community through volunteering and other like minded activities. I've traveled across the country and have done some international travel with plans to do more. </p>
 
 
 [My Git Hub Page](https://francescodt.github.io/learningjournal/)
@@ -19,9 +21,9 @@ __*Tables of Contents*__
 
 __*Growth Mindset Totally Not Plagiarized and One-hundred Percent In My Own Words*__ 
 
-Growth mindset totally not plagiarized and one-hundred percent in my own words is the foundation of work, school and life stability. Being able to focus on important tasks at hand, and not letting you get in the way of *you*. Developing yourself not only as a co-worker, peer or even cohort, but as someone who is able to grow themselves along with the people around them. By living with a growth mindset rather than a fixed mindset lets you overcome the obstacles, and tasks while also building a foundation for the rest of yourself and peers, affecting each and everyone around you.
+<p>Growth mindset totally not plagiarized and one-hundred percent in my own words is the foundation of work, school and life stability. Being able to focus on important tasks at hand, and not letting you get in the way of *you*. Developing yourself not only as a co-worker, peer or even cohort, but as someone who is able to grow themselves along with the people around them. By living with a growth mindset rather than a fixed mindset lets you overcome the obstacles, and tasks while also building a foundation for the rest of yourself and peers, affecting each and everyone around you.</p>
 
-Like all difficult things, you should establish it as a habit. Mental thinking is powerful, but difficult. Allowing this to become part of your daily life would let you focus on the tasks that you're doing, rather than just being in the growth mindset.
+<p>Like all difficult things, you should establish it as a habit. Mental thinking is powerful, but difficult. Allowing this to become part of your daily life would let you focus on the tasks that you're doing, rather than just being in the growth mindset.</p>
 
 
 
