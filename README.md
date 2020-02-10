@@ -6,7 +6,7 @@
 
 
 Tables of Contents
-  -  [Lab 1b](lab1b.md)
+  -  [Learning Journal 2/10/2020](lab1b.md)
 
 
 
