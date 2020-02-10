@@ -18,6 +18,15 @@ git status
   Let's you know what you've changed cause that's relevant
 
 
+single or double quotes are acceptable
+  ' ', " ", denote  a single item
+  
+ \ nullifies special meaning of a character
+ 
+file
+  obtain information about what type of file a file or directory is.
+
+
 
 camelCasing
   dontCapitalizeTheFirstWordButEveryWordAfterThatAndNoSpaces
