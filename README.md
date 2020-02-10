@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
-![GitHub Logo](/pictures/me.jpg)
-Format: ![Alt Text](url)
+[**Bio**](/pictures/me.jpg)
 
 **Bio**
 
