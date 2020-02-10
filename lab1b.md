@@ -7,3 +7,4 @@
 - [ ] 5 different Markdown structures
 - [x] Introduce yourself
 - [ ] Figure out how to make pictures work
+- [ ] Find out why indenting is impossible
