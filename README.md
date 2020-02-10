@@ -6,7 +6,7 @@
 
 
 Tables of Contents
-  -  [Learning Journal 1b](lab1b.md)
+  -  [Lab 1b](lab1b.md)
 
 
 
