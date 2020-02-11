@@ -28,7 +28,7 @@ Messages are like writing a caption for your snapshot.
 
 Git is the versioning system/command line tool, github is a hosting service, task managing "cloud" for projects
 
-__**git + github = awesome**__
+_**git + github = awesome**_
 
 *Github*
 Allows you to share code with others, and an online place to store your code.
