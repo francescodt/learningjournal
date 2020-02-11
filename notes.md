@@ -72,6 +72,26 @@ Semantic elements are descriptors that tell you where to put things.
 
 < Head>< /Head> Title, metadata, link style, js  
 
+__*Markdown*__  
+
+__*Semantic*__  
+
+__*Wireframe*__  
+* Skeleton of a website without design addage  
+__*Personas*__
+* A person who isn't a person, but acts like one so you can gain analytics  
+__*Meta*__  
+
+__*Content*__  
+
+__*Elements*__  
+
+__*Tag*__  
+
+__*Structures vs Presentation*__  
+
+  
+
 
 
 
