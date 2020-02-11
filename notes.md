@@ -72,47 +72,47 @@ Semantic elements are descriptors that tell you where to put things.
 
 < Head>< /Head> Title, metadata, link style, js  
 
-### example of html page
-<*!DOCTYPE html>
-<*html>
-  <*head>
-    <*title>htmldemo</*title>
-  <*/head>
-  <*body>
-    <*header>
-      <*h1><*/h1>
-      <*nav>
-        <*ul>
-          <*li><*/li>
-          <*li><*/li>
-        <*/ul>
-      <*/nav>
-    <*/header>
-    <*main>
-      <*img src="yourimagelinkhere">
-      <*/img>
-    <*/main>
-      <*h2><*/h2>
-      <*p><*/p>
-    <*footer>
-      <*p>&copy<*/p>
-    <*/footer>
-  <*/body>
-<*/html>
+### example of html page  
+<*!DOCTYPE html>  
+<*html>  
+  <*head>  
+    <*title>htmldemo</*title>\
+  <*/head>\
+  <*body>\
+    <*header>\
+      <*h1><*/h1>\
+      <*nav>\
+        <*ul>\
+          <*li><*/li>\
+          <*li><*/li>\
+        <*/ul>\
+      <*/nav>\
+    <*/header>\
+    <*main>\
+      <*img src="yourimagelinkhere">\
+      <*/img>\
+    <*/main>\
+      <*h2><*/h2>\
+      <*p><*/p>\
+    <*footer>\
+      <*p>&copy<*/p>\
+    <*/footer>\
+  <*/body>\
+<*/html>\
 
 
 __*Markdown*__  
 
 __*Semantic*__  
 
-__*Wireframe*__  
-* Skeleton of a website without design addage  
-__*Personas*__
+__*Wireframe*__   
+* Skeleton of a website without design addage   
+__*Personas*__  
 * A person who isn't a person, but acts like one so you can gain analytics  
 __*Meta*__  
 
 __*Content*__  
-The thing(s) inbetween tags. Generally in the body, but can be in the head or foot
+The thing(s) inbetween tags. Generally in the body, but can be in the head or foot  
 __*Elements*__  
 
 __*Tag*__  
