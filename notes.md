@@ -72,6 +72,17 @@ Semantic elements are descriptors that tell you where to put things.
 
 < Head>< /Head> Title, metadata, link style, js  
 
+### example of html page
+<*!DOCTYPE html>
+<*html>
+  <*head>
+    <*title>htmldemo</*title>
+  <*/head>
+  <*body>
+  <*/body>
+<*/html>
+
+
 __*Markdown*__  
 
 __*Semantic*__  
