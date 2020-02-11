@@ -1,9 +1,9 @@
 ## Day 1
-Create the repistory (MIT)
-Change the source to master and the theme to the best looking one.
-Add the link to the website portion on edit (upper middle right)
-???
-Github should basically be set-up
+Create the repistory (MIT)  
+Change the source to master and the theme to the best looking one.  
+Add the link to the website portion on edit (upper middle right)  
+???  
+Github should basically be set-up  
 
 ???<br>
 Install a lot of things
