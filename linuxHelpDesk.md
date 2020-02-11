@@ -2,7 +2,7 @@
 Text and code editors allow you to edit (create,modify) programming language source code. 
 
 ### Text Editors
-<ol> **Examples**
+<ol> Examples 
 <li>Notepad</li>
 <li>Microsoft word</li></ol>
 <ol>Features
@@ -11,7 +11,7 @@ Text and code editors allow you to edit (create,modify) programming language sou
 <li>Text formatting</li></ol>
 
 ### Code Editors
-<ol> **Examples**
+<ol> Examples 
 <li>Visual Studio</li>
 <li>Atom</li>
 <li>Notepad++</li></ol>
