@@ -12,9 +12,9 @@
 
 
 Headers
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# This is a tag
+## This is a tag
+###### This is a tag
 Emphasis
 *This text will be italic*
 _This will also be italic_
@@ -41,6 +41,3 @@ As Kanye West said:
 
 > We're living the future so
 > the present is our past.
-Inline code
-I think you should use an
-`<addr>` element here instead.
