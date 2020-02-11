@@ -1,8 +1,8 @@
 # Text and Code Editors
 Text and code editors allow you to edit (create,modify) programming language source code. 
 
-## Text Editors
-<ol>Examples
+### Text Editors
+<ol> **Examples**
 <li>Notepad</li>
 <li>Microsoft word</li></ol>
 <ol>Features
@@ -10,8 +10,8 @@ Text and code editors allow you to edit (create,modify) programming language sou
 <li>Undo, Redo</li>
 <li>Text formatting</li></ol>
 
-## Code Editors
-<ol>Examples
+### Code Editors
+<ol> **Examples**
 <li>Visual Studio</li>
 <li>Atom</li>
 <li>Notepad++</li></ol>
