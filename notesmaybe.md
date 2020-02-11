@@ -49,7 +49,7 @@ ls (to see what's inside)
 
 *use code . to open VS*  
 
-__*Git status - use a lot__* - Let's you know if there are any changes that need to be made since your last commit  
+__*Git status - use a lot*__ - Let's you know if there are any changes that need to be made since your last commit  
 git remote -v - Lets you know what is being fetched or pushed  
 git add <file> - to update what wil be committed  
 git checkout -- <file> - to discard changes in working directory  
