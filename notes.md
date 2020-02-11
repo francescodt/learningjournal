@@ -79,6 +79,24 @@ Semantic elements are descriptors that tell you where to put things.
     <*title>htmldemo</*title>
   <*/head>
   <*body>
+    <*header>
+      <*h1><*/h1>
+      <*nav>
+        <*ul>
+          <*li><*/li>
+          <*li><*/li>
+        <*/ul>
+      <*/nav>
+    <*/header>
+    <*main>
+      <*img src="yourimagelinkhere">
+      <*/img>
+    <*/main>
+      <*h2><*/h2>
+      <*p><*/p>
+    <*footer>
+      <*p>&copy<*/p>
+    <*/footer>
   <*/body>
 <*/html>
 
@@ -94,7 +112,7 @@ __*Personas*__
 __*Meta*__  
 
 __*Content*__  
-
+The thing(s) inbetween tags. Generally in the body, but can be in the head or foot
 __*Elements*__  
 
 __*Tag*__  
