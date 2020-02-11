@@ -2,20 +2,30 @@
 Text and code editors allow you to edit (create,modify) programming language source code. 
 
 ### Text Editors
-<ol> Examples 
-<li>Notepad</li>
+ Examples 
+<ol><li>Notepad</li>
 <li>Microsoft word</li></ol>
-<ol>Features
-<li>Cut, copy, paste</li>
+ Features
+<ol><li>Cut, copy, paste</li>
 <li>Undo, Redo</li>
 <li>Text formatting</li></ol>
 
 ### Code Editors
-<ol> Examples 
-<li>Visual Studio</li>
+ Examples 
+<ol><li>Visual Studio</li>
 <li>Atom</li>
 <li>Notepad++</li></ol>
-<ol>Features
-<li>Syntax Highlighting</li>
+ Features
+<ol><li>Syntax Highlighting</li>
 <li>Themes, backgrounds</li>
-<li>Code Completion</li>
+<li>Code Completion</li></ol>
+
+### IDE
+Examples
+<ol><li>Netbeans</li>
+  <li>Pycharm</li>
+  <li>Exclipse</li></ol>
+Features
+  <ol><li>Debugger</li>
+  <li>Code Completion</li>
+  <li>Compiler</li></ol>
