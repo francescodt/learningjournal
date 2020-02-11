@@ -101,23 +101,6 @@ Semantic elements are descriptors that tell you where to put things.
 <*/html>\
 
 
-__*Markdown*__  
-
-__*Semantic*__  
-
-__*Wireframe*__   
-* Skeleton of a website without design addage   
-__*Personas*__  
-* A person who isn't a person, but acts like one so you can gain analytics  
-__*Meta*__  
-
-__*Content*__  
-The thing(s) inbetween tags. Generally in the body, but can be in the head or foot  
-__*Elements*__  
-
-__*Tag*__  
-
-__*Structures vs Presentation*__  
 
   
 
