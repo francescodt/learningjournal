@@ -37,6 +37,35 @@ Can use git to help manage team's work - can allow you to keep changes separate 
 Repository - collections of files that you've told git to pay attention to
 Generally, one project = one repository
 
+_**how to add a clone to another repository**_ (actions in terminal)
+cd desktop
+ls - shows what the list on your desktop is
+ls -a shows the hidden files (things with .infront of them)
+git clone + link
+
+cd + new name
+ls (to see what's inside)
+
+git remote -v
+Lets you know what is being fetched or pushed
+
+*use code . to open VS*
+
+__*Git status - use a lot__*
+Let's you know if there are any changes that need to be made since your last commit
+git add <file> - to update what wil be committed
+git checkout -- <file> - to discard changes in working directory
+git reset HEAD <file> - to unstage (revert back)
+git commit -m '<add or update file markdown examples>' 
+  git add <file name>
+  git update 'what you did here'
+git push to publish local commit
+
+
+
+
+
+
 
 
 
