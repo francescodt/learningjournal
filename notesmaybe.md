@@ -5,7 +5,7 @@ Add the link to the website portion on edit (upper middle right)
 ???
 Github should basically be set-up
 
-???
+???<br>
 Install a lot of things
 
 ## Day 2
@@ -46,13 +46,11 @@ git clone + link
 cd + new name
 ls (to see what's inside)
 
-git remote -v
-Lets you know what is being fetched or pushed
 
 *use code . to open VS*
 
-__*Git status - use a lot__*
-Let's you know if there are any changes that need to be made since your last commit
+__*Git status - use a lot__* - Let's you know if there are any changes that need to be made since your last commit
+git remote -v - Lets you know what is being fetched or pushed
 git add <file> - to update what wil be committed
 git checkout -- <file> - to discard changes in working directory
 git reset HEAD <file> - to unstage (revert back)
@@ -60,6 +58,8 @@ git commit -m '<add or update file markdown examples>'
   git add <file name>
   git update 'what you did here'
 git push to publish local commit
+git commit -m "your message goes here"
+git push origin master - 
 
 
 
