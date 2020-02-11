@@ -61,6 +61,16 @@ git push - to publish local commit
 git commit -m "your message goes here"  
 git push origin master -   
 
+*git flow*  
+A-C-P  
+
+__*HTML*__ - hyper text markup language  
+This is what you use to structure your webpage.  
+Semantic elements are descriptors that tell you where to put things.  
+- < article> < /article>  
+- < div> < /div>  
+
+< Head>< /Head> Title, metadata, link style, js  
 
 
 
