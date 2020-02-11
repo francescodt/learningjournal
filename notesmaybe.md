@@ -57,7 +57,7 @@ git reset HEAD <file> - to unstage (revert back)
 git commit -m '<add or update file markdown examples>'   
   git add <file name>  
   git update 'what you did here'  
-git push to publish local commit  
+git push - to publish local commit  
 git commit -m "your message goes here"  
 git push origin master -   
 
