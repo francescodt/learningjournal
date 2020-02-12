@@ -18,6 +18,8 @@ __*Tables of Contents*__
   -  [Learning Journal02 2/10/2020](/classwork/linuxHelpDesk02.md)
   -  [Learning Journal03 2/11/2020](/classwork/lab03.md)
   -  [Learning Journal04 2/11/2020](/classwork/hm04.md)
+  -  [Learning Journal06a 2/12/2020](/classwork/jav05a.md)
+  -  [Learning Journal06b 2/12/2020](/classwork/java06b.md)
   
 
 
