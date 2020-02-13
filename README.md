@@ -20,6 +20,10 @@ __*Tables of Contents*__
   -  [Learning Journal04 2/11/2020](/classwork/hm04.md)
   -  [Learning Journal06a 2/12/2020](/classwork/jav05a.md)
   -  [Learning Journal06b 2/12/2020](/classwork/java06b.md)
+  -  [Learning Journal07 2/13/2020](/classwork/teachtherobot.md)
+  -  [Learning Journal08 2/13/2020](/classwork/avatar08.md)
+
+  
   
 
 

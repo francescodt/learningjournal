@@ -180,37 +180,65 @@ HSL color property has been introduced into CSS3 as an alternative way to specif
 HSLA olor property allows you to specify color properties using hue, saturation, and lightness as above and adds a fourth value which represents transparency. The A stands for Alpha. This number is expressed between 0 and 1.0. .5 represents transparency, etc, etc. Is basically opacity.  
 
 __*Seperation of concerns*__  
-The idea that you should split HTML, JS, CSS files due to neatness. CSS, HTML and JS files can get very long and you would not want them to merge together. It makes it more editible as well.  
+The idea that you should split HTML, JS, CSS files due to neatness. CSS, HTML and JS files can get very long and you would not want them to merge together. It makes it more editible as well.   
 
-w3schools.com boz sizing border box
-clear: both; - helps with floats to line up pages
-
-
-__*Javascript*__  
-Data Types-
-- Number - Numerical data - 3
-- String - Textual data - ' text '
-- Boolean - True or False
-- Null - Says this does not exist
-- Undefined - Delcared a variable with no value from that variable
-- Symbol
-- Valve
-- NaN - Not a number
-
-__Things you can put inside your app.js__
-console.log -
-<*script src="jslocation"></*script> - include this tag after the footer to prevent issues
+w3schools.com boz sizing border box  
+clear: both; - helps with floats to line up pages  
 
 
-var is how you define things.
-var = variable
-We are learning vanilla javascript. We will learn ES6 (?)
-= is an assignment operator. 
+__*Javascript*__    
+Data Types-  
+- Number - Numerical data - 3  
+- String - Textual data - ' text '  
+- Boolean - True or False  
+- Null - Says this does not exist  
+- Undefined - Delcared a variable with no value from that variable  
+- Symbol  
+- Valve  
+- NaN - Not a number  
 
-prompt -
-alert - 
-if - 
-else -
+__Things you can put inside your app.js__  
+console.log -  
+<*script src="jslocation"></*script> - include this tag after the footer to prevent issues  
 
 
+var is how you define things.  
+var = variable  
+We are learning vanilla javascript. We will learn ES6 (?)  
+= is an assignment operator.  
+
+prompt -  
+alert -  
+if -   
+else -  
+
+
+## Day4  
+*Function*- Named piece of code  
+*Declaration*-  
+*Call*-  
+*Parameter*-  
+*Arguments*-  
+*Return Value*-  
+*Script*- Series of instructions given by the user.  
+*Syntax*- Colons, semicolons, periods, etc. Things to end or include inside the script.  
+*Expression*-  
+*Operator*-  
+*Refractoring*-  
+
+  
+function functionName(){  
+    //code  
+}  
+___   
+var nameOfThing = function {  
+    //code  
+}  
+___  
+function functionName (parameters){  
+  //code  
+}  
+
+functionName(Argument);  
+___  
 
